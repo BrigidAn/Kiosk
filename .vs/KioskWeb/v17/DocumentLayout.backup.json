@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ochim\\source\\repos\\KioskWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{135ABBBC-3CAF-4A67-9D2D-3F441651DA7A}|KioskWeb\\KioskWeb.csproj|c:\\users\\ochim\\source\\repos\\kioskweb\\kioskweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{135ABBBC-3CAF-4A67-9D2D-3F441651DA7A}|KioskWeb\\KioskWeb.csproj|solutionrelative:kioskweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135ABBBC-3CAF-4A67-9D2D-3F441651DA7A}|KioskWeb\\KioskWeb.csproj|c:\\users\\ochim\\source\\repos\\kioskweb\\kioskweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{135ABBBC-3CAF-4A67-9D2D-3F441651DA7A}|KioskWeb\\KioskWeb.csproj|solutionrelative:kioskweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135ABBBC-3CAF-4A67-9D2D-3F441651DA7A}|KioskWeb\\KioskWeb.csproj|c:\\users\\ochim\\source\\repos\\kioskweb\\kioskweb\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{135ABBBC-3CAF-4A67-9D2D-3F441651DA7A}|KioskWeb\\KioskWeb.csproj|solutionrelative:kioskweb\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1803476932:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ochim\\source\\repos\\KioskWeb\\KioskWeb\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "KioskWeb\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ochim\\source\\repos\\KioskWeb\\KioskWeb\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "KioskWeb\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T18:20:08.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ochim\\source\\repos\\KioskWeb\\KioskWeb\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "KioskWeb\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ochim\\source\\repos\\KioskWeb\\KioskWeb\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "KioskWeb\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T18:19:31.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ochim\\source\\repos\\KioskWeb\\KioskWeb\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "KioskWeb\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ochim\\source\\repos\\KioskWeb\\KioskWeb\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "KioskWeb\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T18:18:46.421Z",
+              "EditorCaption": ""
             }
           ]
         }
